@@ -1,0 +1,7 @@
+site_name: My Fitness Hub
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Workout: workout/routine.md
+  - Nutrition: nutrition/plan.md
