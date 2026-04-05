@@ -1,565 +1,379 @@
 # Plan de Nutrición - Recomposición Corporal
 
-## Perfil del Usuario
-- **Edad:** 34 años | **Peso:** 85kg | **Altura:** 183cm | **BMI:** ~25.4
-- **Objetivo:** Recomposición corporal (ganancia muscular gradual + control de peso)
-- **Entrenamiento:** 4 días/semana Upper/Lower split (Lunes, Martes, Jueves, Viernes)
-- **TDEE estimado:** 2,650 kcal/día
-
----
-
 ## Resumen Semanal
 
-### Distribución Calórica
-| Tipo de Día | Calorías Objetivo | Propósito |
-|-------------|-------------------|-----------|
-| **Entrenamiento** (Lu/Ma/Ju/Vi) | 2,800-2,900 kcal | Superávit para construcción muscular |
-| **Descanso** (Mi/Sa/Do) | 2,400-2,500 kcal | Mantenimiento/ligero déficit |
+### Objetivos Calóricos y Macros
+| Tipo de Día | Calorías | Proteínas | Carbohidratos | Grasas |
+|-------------|----------|-----------|---------------|---------|
+| **Entrenamiento Upper** (Lu/Ju) | 2,850 kcal | 170g | 300g | 115g |
+| **Entrenamiento Lower** (Ma/Vi) | 2,900 kcal | 170g | 320g | 115g |
+| **Descanso** (Mi/Sa/Do) | 2,400 kcal | 160g | 220g | 105g |
 
-### Macronutrientes Diarios
-| Macro | Gramos | Porcentaje | Kcal | Prioridad |
-|-------|--------|------------|------|-----------|
-| **Proteína** | 155-170g | 20-22% | 620-680 | **MÁXIMA** |
-| **Carbohidratos** | Variable | 45-55% | Variable | Media-Alta |
-| **Grasas** | 80-95g | 25-30% | 720-855 | Media |
-
-### Estrategia Semanal
-- **Total semanal:** ~18,900-19,600 kcal
-- **Margen para cerveza:** ~700-1,000 kcal integradas naturalmente
-- **Enfoque:** Alimentos de alta saciedad para controlar volumen natural de ingesta
+### Distribución Semanal
+- **Días de entrenamiento:** Superávit ligero para recuperación y construcción muscular
+- **Días de descanso:** Mantenimiento para control de grasa corporal
+- **Promedio semanal:** ~2,650 kcal/día para recomposición corporal gradual
 
 ---
 
-## Plan Día a Día
+## Lunes 7 Abril - UPPER BODY (2,850 kcal)
 
-### LUNES - Upper Body (Día de Entrenamiento)
-**Objetivo:** 2,850 kcal | Proteína: 165g | Carbos: 380g | Grasas: 85g
+### Desayuno (650 kcal)
+- **Avena con proteína**
+  - 80g copos de avena integral
+  - 1 cacito (30g) proteína whey sabor vainilla
+  - 1 plátano mediano (150g)
+  - 15g mantequilla de cacahuete natural
+  - 250ml leche semidesnatada
 
-#### Desayuno (650 kcal)
-- 80g avena integral + 1 plátano grande + 30g almendras + canela
-- 200ml leche semidesnatada
-- Café con 10ml aceite de coco
+### Media Mañana (280 kcal)
+- **Snack proteico**
+  - 150g yogur griego natural 0% grasa
+  - 15g nueces peladas
+  - 1 cucharadita miel
 
-#### Media Mañana (300 kcal)
-- Tortilla de 2 huevos enteros + 2 claras
-- 1 rebanada pan integral tostado
-- Tomate rallado con sal
+### Comida (750 kcal)
+- **Pechuga de pollo con arroz**
+  - 160g pechuga de pollo a la plancha
+  - 80g arroz integral (peso en seco)
+  - 150g verduras salteadas (pimiento rojo, calabacín, cebolla)
+  - 1 cucharada aceite de oliva virgen extra
+  - Ensalada verde grande (lechuga, tomate, pepino)
 
-#### Comida (750 kcal)
-- 150g pechuga de pollo a la plancha
-- 100g arroz basmati (peso crudo)
-- Ensalada mixta grande (lechuga, tomate, pepino, zanahoria)
-- 15ml aceite de oliva virgen extra
-- 1 yogur griego natural 0%
+### Merienda Pre-Entreno (320 kcal)
+- **Energía para upper body**
+  - 1 tostada pan integral de centeno (40g)
+  - 80g plátano
+  - 15g crema de almendras
+  - Café solo
 
-#### Merienda Pre-Entreno (400 kcal)
-- Batido: 30g proteína whey + 1 plátano + 200ml leche semidesnatada
-- 30g dátiles
-
-#### Cena Post-Entreno (750 kcal)
-- 150g salmón al horno
-- 200g patata cocida con piel
-- Brócoli al vapor con ajo
-- 10ml aceite de oliva
-- 1 kiwi
-
----
-
-### MARTES - Lower Body (Día de Entrenamiento)
-**Objetivo:** 2,900 kcal | Proteína: 170g | Carbos: 420g | Grasas: 80g
-
-#### Desayuno (700 kcal)
-- 100g avena + 1 manzana troceada + 30g nueces + miel
-- 2 huevos revueltos
-- 1 tostada pan integral
-
-#### Media Mañana (350 kcal)
-- Batido: 25g proteína whey + 1 plátano + 300ml leche semidesnatada
-
-#### Comida (800 kcal)
-- 150g ternera magra
-- 120g pasta integral (peso crudo)
-- Salsa de tomate casera con verduras
-- Ensalada de rúcula con tomates cherry
-- 15ml aceite de oliva
-
-#### Merienda Pre-Entreno (450 kcal)
-- 2 tostadas pan integral con mermelada sin azúcar
-- 1 yogur griego 0% con frutas rojas
-- 1 café
-
-#### Cena Post-Entreno (600 kcal)
-- Tortilla francesa de 3 huevos
-- 80g quinoa cocida
-- Verduras salteadas (calabacín, pimientos)
-- 10ml aceite de oliva
-- Infusión relajante
+### Cena Post-Entreno (850 kcal)
+- **Recuperación proteica**
+  - 150g salmón a la plancha
+  - 300g patata cocida con piel
+  - 200g brócoli al vapor
+  - 1 cucharada aceite de oliva
+  - Ensalada de rúcula con 40g queso fresco batido
 
 ---
 
-### MIÉRCOLES - Descanso
-**Objetivo:** 2,450 kcal | Proteína: 155g | Carbos: 280g | Grasas: 90g
+## Martes 8 Abril - LOWER BODY (2,900 kcal)
 
-#### Desayuno (500 kcal)
-- 60g avena + arándanos + 25g almendras
-- 200ml leche semidesnatada
-- Café solo
+### Desayuno (680 kcal)
+- **Tostadas proteicas**
+  - 2 tostadas pan integral (80g)
+  - 3 huevos enteros revueltos
+  - 50g aguacate
+  - 250ml leche semidesnatada
+  - 1 tomate mediano en rodajas
 
-#### Media Mañana (250 kcal)
-- 1 yogur griego 0% grande
-- 1 manzana
-- 15g nueces
+### Media Mañana (300 kcal)
+- **Batido energético**
+  - 250ml leche semidesnatada
+  - 1 plátano grande (180g)
+  - 15g avellanas tostadas
 
-#### Comida (650 kcal)
-- 150g merluza al horno
-- 80g arroz integral (peso crudo)
-- Menestra de verduras
-- 15ml aceite de oliva
-- 1 naranja
+### Comida (780 kcal)
+- **Pasta con atún**
+  - 90g pasta integral (peso en seco)
+  - 150g atún natural en conserva
+  - 200g verduras mediterráneas (berenjena, calabacín, tomate)
+  - 1 cucharada aceite de oliva
+  - 30g queso parmesano rallado
 
-#### Merienda (300 kcal)
-- Batido verde: espinacas + 1 pera + 200ml leche de almendras + 20g proteína
-- 10 almendras
+### Merienda Pre-Entreno (350 kcal)
+- **Combustible para piernas**
+  - 70g pan integral tostado
+  - 25g mermelada sin azúcar añadido
+  - 150g yogur griego natural
 
-#### Cena (750 kcal)
-- Ensalada completa: 150g pollo, garbanzos cocidos, aguacate, tomate, lechuga
-- 20ml aceite de oliva y vinagre
-- 1 rebanada pan integral
-- 1 yogur natural
-
----
-
-### JUEVES - Upper Body (Día de Entrenamiento)
-**Objetivo:** 2,850 kcal | Proteína: 168g | Carbos: 375g | Grasas: 88g
-
-#### Desayuno (650 kcal)
-- Tostadas francesas: 2 rebanadas pan integral + 2 huevos + canela
-- 1 plátano
-- 200ml leche semidesnatada
-- 20g miel
-
-#### Media Mañana (320 kcal)
-- Bol: yogur griego 0% + granola casera + fresas
-- 1 café con leche
-
-#### Comida (750 kcal)
-- 150g pavo al horno
-- 100g pasta integral (peso crudo)
-- Verduras mediterráneas (berenjena, calabacín, tomate)
-- 15ml aceite de oliva
-- 1 pera
-
-#### Merienda Pre-Entreno (400 kcal)
-- Smoothie: 25g proteína + 1 mango + 250ml leche semidesnatada
-- 2 galletas de avena caseras
-
-#### Cena Post-Entreno (730 kcal)
-- 150g atún rojo a la plancha
-- 180g batata asada
-- Espárragos a la plancha
-- 10ml aceite de oliva
-- Ensalada de tomate con albahaca
+### Cena Post-Entreno (790 kcal)
+- **Recuperación completa**
+  - 140g ternera magra a la plancha
+  - 100g arroz blanco (peso en seco)
+  - 250g judías verdes con zanahoria
+  - 1 cucharada aceite de oliva
+  - Ensalada mixta con 20g pipas de girasol
 
 ---
 
-### VIERNES - Lower Body (Día de Entrenamiento)
-**Objetivo:** 2,900 kcal | Proteína: 172g | Carbos: 415g | Grasas: 85g
+## Miércoles 9 Abril - DESCANSO (2,400 kcal)
 
-#### Desayuno (720 kcal)
-- Porridge: 100g avena + 1 plátano + 30g almendras + canela + miel
-- 2 huevos cocidos
-- Zumo de naranja natural (200ml)
+### Desayuno (520 kcal)
+- **Ligero y saciante**
+  - Tortilla de 3 huevos con verduras (espinacas, champiñones)
+  - 1 tostada pan integral (40g)
+  - 200ml zumo de naranja natural
+  - 1 kiwi grande
 
-#### Media Mañana (350 kcal)
-- Batido post-desayuno: 25g proteína + 300ml leche + frutas rojas congeladas
+### Media Mañana (240 kcal)
+- **Saciante y nutritivo**
+  - 200g yogur griego natural 0%
+  - 100g fresas
+  - 10g almendras laminadas
 
-#### Comida (850 kcal)
-- 150g solomillo de cerdo
-- 120g arroz basmati (peso crudo)
-- Pisto manchego
-- 15ml aceite de oliva
-- 1 yogur con frutas
+### Comida (650 kcal)
+- **Legumbres protagonistas**
+  - 80g lentejas pardinas (peso en seco) guisadas
+  - 120g merluza al horno
+  - Ensalada completa (lechuga, tomate, zanahoria, pepino)
+  - 1 cucharada aceite de oliva
+  - 150g calabaza asada
 
-#### Merienda Pre-Entreno (430 kcal)
-- Bocadillo pequeño: pan integral + jamón serrano + tomate
-- 1 plátano
-- Café solo
+### Merienda (220 kcal)
+- **Snack ligero**
+  - 20g jamón serrano
+  - 40g queso fresco
+  - Palitos de zanahoria y apio
+  - Infusión de té verde
 
-#### Cena Post-Entreno (550 kcal)
-- Revuelto: 3 huevos + espinacas + champiñones
-- 60g pan integral
-- 10ml aceite de oliva
-- Compota de manzana casera
-
----
-
-### SÁBADO - Descanso
-**Objetivo:** 2,500 kcal | Proteína: 160g | Carbos: 300g | Grasas: 95g
-
-#### Desayuno (550 kcal)
-- 70g avena + frutos secos variados + 1 manzana
-- 200ml leche semidesnatada
-- Café con leche
-
-#### Media Mañana (300 kcal)
-- Tostada: pan integral + aguacate + tomate + sal
-- 1 yogur griego 0%
-
-#### Comida (700 kcal)
-- 150g lubina al horno con verduras
-- 80g quinoa cocida
-- Ensalada mixta abundante
-- 20ml aceite de oliva
-- 1 kiwi
-
-#### Merienda (350 kcal)
-- Bol de frutas variadas
-- 30g frutos secos mixtos
-- Infusión de té verde
-
-#### Cena (600 kcal)
-- Crema de verduras casera
-- 120g pechuga de pollo a la plancha
-- 1 rebanada pan integral
-- Yogur natural con nueces
+### Cena (770 kcal)
+- **Cena completa**
+  - Revuelto de 2 huevos con espárragos trigueros
+  - 80g quinoa cocida (peso en seco)
+  - 200g crema de verduras casera
+  - 1 cucharada aceite de oliva
+  - 150g manzana asada con canela
 
 ---
 
-### DOMINGO - Descanso
-**Objetivo:** 2,400 kcal | Proteína: 155g | Carbos: 270g | Grasas: 95g
+## Jueves 10 Abril - UPPER BODY (2,850 kcal)
 
-#### Desayuno (520 kcal)
-- Tortitas de avena: 60g avena + 2 huevos + 1 plátano
-- 200ml leche semidesnatada
-- 15g miel
+### Desayuno (650 kcal)
+- **Bowl proteico**
+  - 80g copos de avena integral
+  - 30g proteína en polvo sabor chocolate
+  - 150g plátano
+  - 15g mantequilla de almendras
+  - 250ml bebida de almendras
 
-#### Media Mañana (280 kcal)
-- 1 yogur griego grande
-- Frutas rojas
-- 20g almendras
+### Media Mañana (290 kcal)
+- **Energía sostenida**
+  - 2 tortitas de arroz integral
+  - 40g hummus tradicional
+  - 100g tomates cherry
+  - 10g pipas de calabaza
 
-#### Comida (650 kcal)
-- Guiso de lentejas con verduras (200g lentejas cocidas)
-- Ensalada verde
-- 1 rebanada pan integral
-- 1 mandarina
+### Comida (740 kcal)
+- **Proteína y energía**
+  - 150g pavo a la plancha
+  - 300g boniato asado
+  - 200g pisto manchego
+  - 1 cucharada aceite de oliva
+  - Ensalada de canónigos con 30g nueces
 
-#### Merienda (300 kcal)
-- Batido: 20g proteína + 1 pera + 200ml leche de avena
-- 1 onza chocolate negro 85%
+### Merienda Pre-Entreno (320 kcal)
+- **Pre-entreno upper**
+  - 250ml leche desnatada
+  - 1 plátano mediano
+  - 20g dátiles Medjool deshuesados
+  - Café expreso
 
-#### Cena (650 kcal)
-- 150g dorada al horno
-- Verduras asadas variadas
-- 80g arroz integral (peso crudo)
-- 15ml aceite de oliva
-- Yogur natural
-
----
-
-## Estrategias de Alta Saciedad
-
-### Alimentos Estrella para Control Natural del Apetito
-
-#### Proteínas de Alta Saciedad
-- **Huevos:** Completos, versátiles, alto valor biológico
-- **Pollo y pavo:** Magros, ricos en proteína, económicos
-- **Pescados blancos:** Merluza, lubina, dorada - muy saciantes
-- **Legumbres:** Lentejas, garbanzos, judías - fibra + proteína
-- **Queso fresco batido 0%:** Cremoso, versátil, bajo en calorías
-
-#### Carbohidratos Saciantes
-- **Avena:** Betaglucanos que aumentan saciedad
-- **Patata cocida con piel:** Índice de saciedad más alto conocido
-- **Arroz integral:** Fibra + carbohidratos complejos
-- **Quinoa:** Proteína completa + fibra
-- **Pan integral de centeno:** Denso y muy saciante
-
-#### Grasas Inteligentes
-- **Aguacate:** Grasas monoinsaturadas + fibra
-- **Frutos secos:** En porciones controladas (30g máximo)
-- **Aceite de oliva virgen extra:** Para cocinar y aliñar
-- **Semillas de chía:** Omega-3 + fibra que se expande
-
-#### Verduras de Volumen
-- **Ensaladas gigantes:** Base de todas las comidas principales
-- **Brócoli, coliflor:** Muy saciantes, pocas calorías
-- **Calabacín, berenjena:** Perfectos para guisos abundantes
-- **Espinacas, acelgas:** Volumen + micronutrientes
+### Cena Post-Entreno (850 kcal)
+- **Recuperación nocturna**
+  - 160g dorada al horno
+  - 100g arroz integral (peso en seco)
+  - 300g verduras de temporada salteadas
+  - 1 cucharada aceite de oliva
+  - 200g yogur griego con 50g arándanos
 
 ---
 
-## Timing de Nutrientes
+## Viernes 11 Abril - LOWER BODY (2,900 kcal)
 
-### Días de Entrenamiento
+### Desayuno (700 kcal)
+- **Desayuno potente**
+  - 3 tostadas pan integral (120g)
+  - 2 huevos escalfados
+  - 60g aguacate
+  - 30g salmón ahumado
+  - 250ml leche semidesnatada
 
-#### Pre-Entreno (1-2 horas antes)
-- Carbohidratos de absorción media: avena, plátano, dátiles
-- Proteína ligera: yogur, batido de proteína
-- Evitar: grasas excesivas, fibra alta
+### Media Mañana (310 kcal)
+- **Snack energético**
+  - Batido: 250ml leche + 150g mango + 15g almendras
+  - 1 barrita de cereales casera
 
-#### Post-Entreno (dentro de 2 horas)
-- Proteína de calidad: 25-40g (pollo, pescado, huevos)
-- Carbohidratos para recarga: arroz, patata, pasta
-- Hidratación abundante
+### Comida (800 kcal)
+- **Plato de cuchara**
+  - 90g garbanzos (peso en seco) con verduras
+  - 120g pollo deshuesado
+  - Ensalada de remolacha y zanahoria rallada
+  - 1 cucharada aceite de oliva
+  - 150g pan integral
 
-### Días de Descanso
+### Merienda Pre-Entreno (360 kcal)
+- **Máxima energía para piernas**
+  - 80g pan tostado
+  - 30g mermelada de arándanos
+  - 200ml leche desnatada
+  - 10g pasas sultanas
 
-#### Enfoque
-- Mayor énfasis en proteína para recuperación
-- Carbohidratos moderados, priorizando verduras
-- Grasas saludables para saciedad
-
----
-
-## Gestión de Hidratación
-
-### Objetivos Diarios
-- **Mínimo:** 35ml × 85kg = 2,975ml (≈3 litros)
-- **Días de entrenamiento:** +500-750ml adicionales
-- **Con alcohol:** +250ml por cada bebida alcohólica
-
-### Estrategias
-1. **Al despertar:** 500ml de agua tibia con limón
-2. **Pre-comidas:** 250ml agua 20 minutos antes
-3. **Durante entrenamiento:** 150-200ml cada 15-20 minutos
-4. **Post-entreno:** 150% del peso perdido en sudor
-5. **Antes de dormir:** 200ml si hay sed, evitar exceso
-
-### Alternativas al Agua
-- Infusiones sin azúcar (manzanilla, poleo, té verde)
-- Agua con gas natural
-- Caldos vegetales caseros bajos en sodio
-- Agua de coco natural (post-entreno)
+### Cena Post-Entreno (730 kcal)
+- **Recuperación final**
+  - 140g lomo de cerdo a la plancha
+  - 300g puré de patata casero
+  - 200g espinacas salteadas con ajo
+  - 1 cucharada aceite de oliva
+  - 150g yogur natural con 30g muesli sin azúcar
 
 ---
 
-## Suplementación Básica
+## Sábado 12 Abril - DESCANSO (2,400 kcal)
 
-### Esenciales
-| Suplemento | Dosis | Timing | Objetivo |
-|------------|-------|--------|----------|
-| **Proteína Whey** | 25-30g | Post-entreno | Síntesis proteica |
-| **Creatina** | 5g | Cualquier momento | Fuerza y volumen |
-| **Vitamina D3** | 2000-4000 UI | Con grasas | Salud ósea/inmune |
-| **Omega-3** | 2-3g EPA+DHA | Con comida | Antiinflamatorio |
+### Desayuno (530 kcal)
+- **Fin de semana relajado**
+  - Tortilla francesa de 3 huevos
+  - 200g zumo de naranja natural
+  - 50g pan integral tostado
+  - 1 cucharada mermelada sin azúcar
+  - 150g melón
 
-### Opcionales según Necesidad
-- **Magnesio:** 400mg antes de dormir (mejor recuperación)
-- **Zinc:** 15mg con estómago vacío (testosterona/inmune)
-- **Vitamina B12:** 250mcg sublingual (energía/sistema nervioso)
-- **Probióticos:** Según producto (salud digestiva)
+### Media Mañana (250 kcal)
+- **Antioxidante**
+  - 200g yogur griego natural 0%
+  - 120g arándanos y frambuesas
+  - 10g semillas de chía
 
----
+### Comida (680 kcal)
+- **Comida de weekend**
+  - 90g arroz con verduras y 120g pollo
+  - Gazpacho andaluz (200ml)
+  - Ensalada variada con vinagreta
+  - 1 cucharada aceite de oliva
+  - 200g sandía
 
-## Preparación de Comidas (Meal Prep)
+### Merienda (230 kcal)
+- **Snack ligero**
+  - 30g jamón ibérico
+  - 150g tomate en rama con sal
+  - 20g pan integral
+  - Infusión digestiva
 
-### Domingo de Preparación (2-3 horas)
-
-#### Proteínas para la Semana
-- 1kg pechuga de pollo cortada y marinada
-- 800g pescado blanco en filetes
-- Huevos cocidos (12 unidades)
-- Lentejas cocidas (500g peso seco)
-
-#### Carbohidratos Base
-- Arroz integral cocido (400g peso seco)
-- Quinoa cocida (300g peso seco)
-- Avena porcionada en recipientes
-- Patatas cocidas con piel
-
-#### Verduras Listas
-- Ensalada mixta lavada y troceada
-- Verduras cortadas para saltear
-- Brócoli blanqueado
-- Caldo de verduras casero
-
-#### Snacks Preparados
-- Porciones de frutos secos (30g c/u)
-- Frutas lavadas y troceadas
-- Yogures porcionados con toppings
-- Energy balls caseras (dátiles + avena + cacao)
+### Cena (710 kcal)
+- **Cena mediterránea**
+  - 130g lubina a la sal
+  - 250g verduras asadas (berenjena, calabacín, pimiento)
+  - 60g quinoa cocida
+  - 1 cucharada aceite de oliva
+  - Ensalada de rúcula con 40g queso de cabra
 
 ---
 
-## Lista de la Compra Semanal
+## Domingo 13 Abril - DESCANSO (2,400 kcal)
 
-### Sección Frutería y Verdura
-- **Frutas:** 7 plátanos, 4 manzanas, 3 peras, 2 kiwis, 1 mango, 500g frutas rojas mixtas, 4 naranjas
-- **Verduras hoja:** 2 lechugas mixtas, 1 bolsa espinacas baby, 1 bolsa rúcula
-- **Verduras varias:** 1kg tomates, 1 pepino, 2 calabacines, 1 berenjena, 500g brócoli, 500g espárragos
-- **Tubérculos:** 2kg patatas, 1kg batata, 500g zanahorias
-- **Aromáticas:** Perejil fresco, albahaca, ajo
+### Desayuno (540 kcal)
+- **Brunch dominical**
+  - 2 tostadas integrales (80g)
+  - 1 huevo poché
+  - 60g aguacate machacado
+  - 250ml café con leche semidesnatada
+  - 120g fresas con canela
 
-### Sección Carnicería y Pescadería
-- **Carnes:** 600g pechuga de pollo, 300g pavo loncheado, 200g ternera magra, 150g solomillo cerdo
-- **Pescados:** 300g salmón fresco, 300g merluza, 200g lubina, 150g atún rojo, 200g dorada
-- **Otros:** 18 huevos grandes camperos
+### Media Mañana (260 kcal)
+- **Natural y fresco**
+  - 150g requesón
+  - 80g uvas
+  - 15g nueces
+  - Infusión de manzanilla
 
-### Sección Lácteos
-- **Leches:** 2L leche semidesnatada, 1L leche de almendras sin azúcar
-- **Yogures:** 6 yogures griegos 0% naturales, 4 yogures naturales tradicionales
-- **Quesos:** 250g queso fresco batido 0%, 100g queso tierno
+### Comida (650 kcal)
+- **Cocido ligero**
+  - 80g alubias blancas (peso en seco)
+  - 100g ternera magra
+  - Verduras del cocido (repollo, zanahoria, judía verde)
+  - 1 cucharada aceite de oliva
+  - 100g pera conferencia
 
-### Sección Carbohidratos y Cereales
-- **Cereales:** 1kg avena integral, 500g quinoa, 500g arroz basmati, 300g arroz integral
-- **Pan:** 1 barra pan integral centeno, 1 paquete pan tostado integral
-- **Pasta:** 500g pasta integral variada
-- **Legumbres:** 500g lentejas rojas, 1 bote garbanzos cocidos
+### Merienda (220 kcal)
+- **Merienda de domingo**
+  - 200ml leche desnatada
+  - 30g cereales integrales sin azúcar
+  - 80g mandarina
 
-### Sección Otros
-- **Aceites:** 500ml aceite oliva virgen extra, 100ml aceite de coco
-- **Frutos secos:** 200g almendras crudas, 150g nueces, 100g mix frutos secos
-- **Condimentos:** Sal marina, pimienta negra, canela, cúrcuma, vinagre de manzana
-- **Otros:** Proteína whey (sabor vainilla), té verde, infusiones variadas, miel natural
-
----
-
-## Flexibilidad Social y Cerveza
-
-### Estrategia para Salidas Sociales
-
-#### Días con Cerveza (2-3 veces/semana)
-- **Reducir carbohidratos** en la cena del día: -50-80g
-- **Mantener proteína** siempre: nunca comprometer este macro
-- **Elegir momento:** Mejor después del entreno o días de descanso
-- **Hidratación extra:** 250ml agua por cada cerveza
-
-#### Restaurantes y Eventos
-- **Proteína primero:** Siempre ordenar una fuente proteica principal
-- **Verduras abundantes:** Ensaladas grandes, verduras a la plancha
-- **Carbohidratos controlados:** Evitar pan + patatas + postre en la misma comida
-- **Bebida alternativa:** Agua con gas con limón entre alcoholes
-
-#### Compensación Inteligente
-- **Día siguiente:** Aumentar slightly las verduras y reducir carbohidratos densos
-- **Ejercicio extra:** 20-30 min caminata al día siguiente
-- **No compensar con ayunos:** Mantener horarios regulares de comida
-
-### Budget Semanal Real
-```
-Días entrenamiento: 4 × 2,850 = 11,400 kcal
-Días descanso: 3 × 2,450 = 7,350 kcal
-Total base: 18,750 kcal
-
-Margen cerveza: ~900 kcal
-Total real: ~19,650 kcal/semana
-```
+### Cena (730 kcal)
+- **Preparación para la semana**
+  - 150g salmón al papillote
+  - 250g puré de calabacín con patata
+  - Ensalada de tomate y mozzarella fresca
+  - 1 cucharada aceite de oliva
+  - 200g yogur natural con 20g miel
 
 ---
 
-## Monitoreo y Ajustes
+## Lista de la Compra por Secciones
 
-### Seguimiento Semanal
+### Fruta y Verdura
+- **Frutas:** Plátanos, manzanas, kiwis, fresas, arándanos, naranjas, mangos, melón, sandía, uvas, peras, mandarinas
+- **Verduras frescas:** Lechuga, tomate, pepino, zanahoria, apio, espinacas, rúcula, canónigos, brócoli
+- **Verduras para cocinar:** Pimiento rojo, calabacín, berenjena, cebolla, ajo, champiñones, espárragos
+- **Verduras congeladas:** Judías verdes, guisantes, brócoli
+- **Patatas y tubérculos:** Patatas, boniatos
 
-#### Peso y Medidas (Lunes en ayunas)
-- **Peso corporal:** Tendencia de 7 días, no fluctuaciones diarias
-- **Cintura:** A la altura del ombligo, relajado
-- **Objetivo mensual:** ±0.5kg máximo de fluctuación
+### Proteínas
+- **Carnes:** Pechuga de pollo, ternera magra, lomo de cerdo, pavo filetes
+- **Pescados:** Salmón fresco, dorada, lubina, merluza
+- **Conservas:** Atún natural, salmón ahumado
+- **Huevos:** 2 docenas huevos frescos grandes
+- **Embutidos:** Jamón serrano, jamón ibérico
 
-#### Signos de Progreso Positivo
-- **Energía estable** durante entrenamientos
-- **Recuperación rápida** entre sesiones
-- **Saciedad natural** sin ansiedad por comida
-- **Sueño reparador** y despertar sin fatiga
-- **Fuerza progresiva** en ejercicios principales
+### Lácteos y Derivados
+- **Leches:** Leche semidesnatada (2L), leche desnatada, bebida de almendras
+- **Yogures:** Yogur griego natural 0% (pack grande), yogur natural
+- **Quesos:** Queso fresco batido, mozzarella fresca, queso de cabra, parmesano, requesón
 
-#### Señales de Ajuste Necesario
+### Carbohidratos y Cereales
+- **Pan:** Pan integral de centeno, pan integral en rebanadas
+- **Cereales:** Copos de avena integral, quinoa, arroz integral, arroz blanco
+- **Pasta:** Pasta integral (macarrones o espaguetis)
+- **Legumbres:** Lentejas pardinas, garbanzos, alubias blancas
 
-**Si pierdes peso muy rápido (>0.5kg/semana):**
-- Aumentar +200 kcal en días de entrenamiento
-- Agregar snack adicional post-entreno
+### Otros
+- **Aceites y condimentos:** Aceite de oliva virgen extra, vinagre, sal, especias
+- **Frutos secos:** Nueces, almendras, avellanas, pipas de girasol, pipas de calabaza
+- **Cremas:** Mantequilla de cacahuete natural, crema de almendras
+- **Endulzantes:** Miel, mermelada sin azúcar añadido
+- **Proteína:** Proteína whey en polvo (sabor vainilla y chocolate)
+- **Bebidas:** Café, té verde, infusiones, zumo de naranja natural
 
-**Si ganas peso muy rápido (>0.5kg/semana):**
-- Reducir -150 kcal en días de descanso
-- Aumentar 10 min cardio post-entreno
-
-**Si estancas completamente (4+ semanas):**
-- Semana de recarga: +300 kcal todos los días
-- Reevaluar distribución de macros
-- Considerar cambios en timing de carbohidratos
-
-### Adaptaciones Estacionales
-
-#### Verano (Mayor actividad)
-- Aumentar hidratación base a 3.5L
-- Más frutas frescas y ensaladas
-- Reducir slightly grasas en comidas principales
-- Aprovechar verduras de temporada
-
-#### Invierno (Menor actividad espontánea)
-- Priorizar sopas y guisos calientes
-- Mantener niveles vitamina D
-- Incluir más legumbres reconfortantes
-- Cuidar no excederse en comidas sociales navideñas
+### Congelados
+- **Verduras:** Verduras mediterráneas, espinacas
+- **Frutos del bosque:** Arándanos, frambuesas (si no hay frescos)
 
 ---
 
-## Recetas Express (15 minutos máximo)
+## Notas Importantes
 
-### Desayunos Rápidos
+### Hidratación
+- **Mínimo 2.5-3L agua/día**
+- **Días de entrenamiento:** +500ml extra por cada hora de ejercicio
+- **Indicadores:** Orina clara, no sed constante
 
-#### Overnight Oats Proteicos
-**Ingredientes:** 60g avena + 200ml leche + 15g proteína + frutas + canela
-**Preparación:** Mezclar todo la noche anterior, listo al despertar
-**Macros:** ~450 kcal | 25g proteína | 55g carbos | 12g grasas
+### Timing de Comidas
+- **Pre-entreno:** 1-2 horas antes, carbohidratos de fácil digestión
+- **Post-entreno:** Dentro de 1 hora, proteína + carbohidratos
+- **Último alimento:** 2-3 horas antes de dormir
 
-#### Scramble de Huevos Express
-**Ingredientes:** 3 huevos + espinacas + tomate cherry + queso fresco
-**Preparación:** 5 min en sartén, servir con tostada integral
-**Macros:** ~380 kcal | 28g proteína | 20g carbos | 20g grasas
+### Suplementación Básica
+- **Proteína en polvo:** Solo si no se alcanza objetivo con alimentos
+- **Creatina:** 3-5g/día (opcional, para rendimiento)
+- **Vitamina D:** En meses de menor exposición solar
+- **Omega-3:** Si consumo de pescado < 3 veces/semana
 
-### Comidas Rápidas
+### Control de Porciones
+- **Proteína:** Tamaño de la palma de la mano
+- **Carbohidratos:** Puño cerrado (más grande en días de entreno)
+- **Grasas:** Tamaño del pulgar
+- **Verduras:** Sin límite, llenar la mitad del plato
 
-#### Bowl Mediterráneo
-**Base:** Quinoa cocida (prep domingo) + garbanzos + tomate + pepino + aceitunas
-**Proteína:** Atún en lata o pollo pre-cocinado
-**Aliño:** Aceite oliva + limón + orégano
-**Tiempo:** 5 minutos montaje
+### Flexibilidad del Plan
+- **Intercambios permitidos:**
+  - Pollo ↔ Pavo ↔ Ternera magra
+  - Pescado blanco ↔ Pescado azul (ajustar grasas)
+  - Arroz ↔ Pasta ↔ Patata (misma cantidad de carbohidratos)
+  - Verduras de temporada según disponibilidad
 
-#### Salteado Asiático
-**Ingredientes:** Verduras congeladas + tiras de pollo + salsa soja + jengibre
-**Base:** Arroz integral pre-cocido
-**Preparación:** 8 min en wok o sartén grande
-**Macros:** ~520 kcal | 35g proteína | 60g carbos | 15g grasas
-
-### Cenas Ligeras
-
-#### Sopa Proteica
-**Base:** Caldo casero + verduras variadas
-**Proteína:** Huevo pochado o tofu sedoso
-**Acompañar:** Rebanada pan integral
-**Tiempo:** 10 minutos con caldo pre-hecho
-
-#### Ensalada Completa
-**Verdes:** Rúcula + espinacas baby
-**Proteína:** Salmón ahumado + huevo cocido
-**Extras:** Aguacate + tomates cherry + nueces
-**Aliño:** Vinagreta mostaza y miel
-
----
-
-## Conclusiones y Claves del Éxito
-
-### Principios Fundamentales
-1. **Proteína como prioridad absoluta:** 155-170g diarios sin excepciones
-2. **Volumen antes que restricción:** Comer grandes cantidades de alimentos saciantes
-3. **Timing de carbohidratos:** Más en entrenamientos, moderados en descanso
-4. **Hidratación como base:** 3L+ diarios, más en entrenamientos
-5. **Flexibilidad social integrada:** El plan debe acomodar cerveza sin culpa
-
-### Estrategias de Adherencia a Largo Plazo
-- **Meal prep domingos:** 80% del éxito está en la preparación
-- **Variedad dentro de estructura:** Mismos macros, diferentes alimentos
-- **Escucha a tu cuerpo:** Ajustar según energía y recuperación
-- **Paciencia con resultados:** Recomposición corporal es lenta pero duradera
-- **Disfrutar el proceso:** La alimentación debe ser placentera, no un castigo
-
-### Recordatorios Importantes
-- Este plan está diseñado para tu perfil específico y horarios de entrenamiento
-- Los días de entrenamiento coinciden con la rutina: Lunes, Martes, Jueves, Viernes
-- La cerveza está contemplada en el budget calórico semanal
-- Prioriza alimentos integrales y mínimamente procesados
-- La consistencia en proteína es más importante que la perfección calórica
-
-**¡El éxito está en la consistencia, no en la perfección!**
+### Preparación Semanal
+- **Domingo:** Cocinar legumbres, arroz integral, verduras al vapor
+- **Miércoles:** Reabastecer proteínas frescas y verduras
+- **Batch cooking:** Preparar 2-3 comidas principales para facilitar seguimiento
