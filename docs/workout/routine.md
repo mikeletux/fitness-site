@@ -6,14 +6,14 @@
 - **Objetivo:** Recomposición corporal (ganancia muscular gradual + control de peso)
 - **Frecuencia:** 4 días/semana (Upper/Lower split)
 
-## Calendario Semanal
-| Lunes | Martes | Miércoles | Jueves | Viernes | Sábado | Domingo |
-|-------|--------|-----------|--------|---------|--------|---------|
-| Upper | Lower  | DESCANSO  | Upper  | Lower   | DESCANSO | DESCANSO |
+## Calendario Semanal (7-11 Abril 2026)
+| Lunes 7 | Martes 8 | Miércoles 9 | Jueves 10 | Viernes 11 | Sábado 12 | Domingo 13 |
+|---------|----------|-------------|-----------|------------|-----------|------------|
+| Upper   | Lower    | DESCANSO    | Upper     | Lower      | DESCANSO  | DESCANSO   |
 
 ---
 
-## Día 1: UPPER BODY (Lunes)
+## Día 1: UPPER BODY (Lunes 7 Abril)
 
 ### Entrenamiento Principal
 | Ejercicio | Series | Repeticiones | Descanso | Grupo Muscular |
@@ -41,7 +41,7 @@
 
 ---
 
-## Día 2: LOWER BODY (Martes)
+## Día 2: LOWER BODY (Martes 8 Abril)
 
 ### Entrenamiento Principal
 | Ejercicio | Series | Repeticiones | Descanso | Grupo Muscular |
@@ -69,14 +69,14 @@
 
 ---
 
-## Día 3: DESCANSO (Miércoles)
+## Día 3: DESCANSO (Miércoles 9 Abril)
 - Día de descanso completo
 - Enfoque en recuperación e hidratación
 - Posible caminata ligera (opcional)
 
 ---
 
-## Día 4: UPPER BODY (Jueves)
+## Día 4: UPPER BODY (Jueves 10 Abril)
 
 ### Entrenamiento Principal
 | Ejercicio | Series | Repeticiones | Descanso | Grupo Muscular |
@@ -104,7 +104,7 @@
 
 ---
 
-## Día 5: LOWER BODY (Viernes)
+## Día 5: LOWER BODY (Viernes 11 Abril)
 
 ### Entrenamiento Principal
 | Ejercicio | Series | Repeticiones | Descanso | Grupo Muscular |
@@ -132,32 +132,78 @@
 
 ---
 
-## Días 6-7: DESCANSO (Sábado y Domingo)
+## Días 6-7: DESCANSO (Sábado 12 y Domingo 13 Abril)
 - Descanso completo
 - Actividades de recuperación activa (caminatas, estiramientos)
 - Preparación para la siguiente semana
 
 ---
 
-## Notas Importantes
+## Estructura del Split
 
-### Progresión
-- **Semanas 1-2:** Familiarización con los ejercicios, peso moderado
-- **Semanas 3-4:** Incremento gradual del peso cuando se completen todas las repeticiones
-- **Semanas 5-6:** Evaluación y ajuste de cargas
+### Upper/Lower Split Explicado
+- **Upper Body (Lunes/Jueves):** Enfoque en pecho, espalda, hombros, bíceps y tríceps
+- **Lower Body (Martes/Viernes):** Enfoque en cuádriceps, isquiotibiales, glúteos y gemelos
+- **Descanso obligatorio:** Miércoles para permitir recuperación óptima
+- **Variación entre días:** Diferentes ejercicios y ángulos para estimulación completa
 
-### Calentamiento
-- **5-10 minutos** de cardio ligero antes de cada sesión
-- **Movimientos dinámicos** específicos para los grupos musculares del día
-- **Series de calentamiento** con peso reducido en ejercicios principales
+### Rotación Semanal
+- **Semana A:** Press banca → Press inclinado (progresión de pecho)
+- **Semana B:** Press inclinado → Press banca (mantener equilibrio)
+- **Alternancia:** Cada 4 semanas cambiar ejercicios complementarios
 
-### Recuperación
-- **48-72 horas** de descanso entre entrenamientos del mismo grupo muscular
-- **Hidratación adecuada:** 2.5-3L de agua diarios
-- **Sueño:** 7-9 horas por noche para óptima recuperación
+---
 
-### Adaptaciones para Recomposición Corporal
-- **Días de entrenamiento:** Ligero superávit calórico (+200-300 kcal)
-- **Días de descanso:** Mantenimiento o ligero déficit (-100-200 kcal)
-- **Proteína:** 1.6-2.2g por kg de peso corporal diario
-- **Monitoreo:** Peso corporal y medidas semanales, fotos mensuales
+## Notas de Progresión
+
+### Progresión Semanal
+- **Semana 1-2:** Adaptación técnica, cargas moderadas (70-75% 1RM estimado)
+- **Semana 3-4:** Incremento de peso cuando se completen todas las repeticiones (+2.5-5kg ejercicios principales, +1-2.5kg accesorios)
+- **Semana 5-6:** Evaluación de fuerza, test de repeticiones máximas
+- **Cada 6-8 semanas:** Semana de descarga (reducir volumen 40-50%)
+
+### Indicadores de Progreso
+- **Aumento de peso:** Prioridad en ejercicios principales
+- **Aumento de repeticiones:** Cuando no se puede subir peso
+- **Mejora en la forma:** Técnica más limpia y controlada
+- **Recuperación:** Menos fatiga entre entrenamientos
+
+---
+
+## Calentamiento y Enfriamiento
+
+### Calentamiento (10-15 minutos)
+1. **Cardio ligero:** 5 min en cinta a ritmo conversacional
+2. **Movilidad dinámica:** Círculos de brazos, balanceos de piernas
+3. **Activación específica:** 
+   - Upper days: Band pull-aparts, dislocaciones de hombro
+   - Lower days: Sentadillas sin peso, activación de glúteos
+4. **Series de aproximación:** 2-3 series con peso progresivo en ejercicio principal
+
+### Enfriamiento (10 minutos post-cardio)
+1. **Estiramientos estáticos:** 30s por grupo muscular trabajado
+2. **Respiración profunda:** 2-3 minutos de técnicas de relajación
+3. **Hidratación:** Reposición de líquidos inmediatamente post-entreno
+
+---
+
+## Adaptaciones Específicas
+
+### Para Recomposición Corporal
+- **Días de entrenamiento (Lu/Ma/Ju/Vi):** Superávit calórico moderado (+200-300 kcal)
+- **Días de descanso (Mi/Sa/Do):** Mantenimiento calórico o ligero déficit (-100-200 kcal)
+- **Proteína diaria:** 140-190g (1.6-2.2g/kg de peso corporal)
+- **Timing de nutrientes:** Comida post-entreno dentro de 2 horas
+
+### Monitoreo y Ajustes
+- **Peso corporal:** Medición semanal, misma hora y condiciones
+- **Medidas corporales:** Cintura, pecho, brazos cada 2 semanas
+- **Fotos de progreso:** Mensualmente, misma iluminación y poses
+- **Sensaciones de entrenamiento:** Registro diario de energía y recuperación
+
+### Variables de Intensidad
+- **RPE (Escala de Esfuerzo Percibido):** 
+  - Ejercicios principales: RPE 7-8 (2-3 repeticiones en reserva)
+  - Ejercicios accesorios: RPE 6-7 (3-4 repeticiones en reserva)
+  - Abdominales: RPE 8-9 (1-2 repeticiones en reserva)
+- **Ajustes semanales según RPE y recuperación**
