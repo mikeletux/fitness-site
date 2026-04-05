@@ -12,6 +12,7 @@ All content lives as Markdown in docs/. No web app, no JS, no databases.
 - Never create .html, .jsx, or .js files
 - Nutrition plan must always reference the current workout routine
 - Keep docs/ files human-readable without rendering
+- When the workout and the nutrition agents are done, make sure you build mkdocs (make sure `mkdocs-material` pip package is installed) and publish changes to `gh-pages` branch. Also you have to create a PR agains `main` branch with name `new-routine-$DATE` where $DATE is the date in format year-month-day.
 
 ## User profile
 - Age: 34
